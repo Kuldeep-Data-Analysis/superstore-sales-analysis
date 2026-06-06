@@ -1,8 +1,8 @@
 # Superstore Sales Analysis 📊
 
 ## About This Project
-Real retail company ka 9,800 orders ka 
-sales data analyze kiya Excel aur Power BI use karke.
+Analyzed 9,800 orders of a real retail company 
+using Excel and Power BI to find key sales insights.
 
 ## Tools Used
 - Microsoft Excel
